@@ -5,7 +5,7 @@ gained from the bootcamp:
 2. Database management
 3. sqlite 3
 4. Defensive programming
-5. Git (Repository accesible at: )
+5. Git (Repository accesible at: https://github.com/gamv335/bookstore-management)
 
 """
 # Import required library
